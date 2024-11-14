@@ -16,7 +16,7 @@ body{
 .container{
     background-color: rgba(0, 0, 0, .4);
     height: 100vh;
-    background: linear-gradient(black);
+    background: linear-gradient(#000000);
 }
 
 .navbar{
