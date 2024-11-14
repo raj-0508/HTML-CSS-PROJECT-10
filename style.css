@@ -6,7 +6,6 @@
 }
 
 body{
-    max-width: 1300px;
     background-image: url(Assest/bgimage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -16,6 +15,7 @@ body{
 
 .container{
     background-color: rgba(0, 0, 0, .5);
+    height: 100vh;
 }
 
 .navbar{
